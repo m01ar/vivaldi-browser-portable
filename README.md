@@ -5,4 +5,4 @@ Vivaldi browser for Windows portable launcher with multiple versions and profile
 
 main.cmd - code for detecting profiles and launching Vivaldi executable
 
-_ start_ < version >.bat - launcher shortcut(s)
+\_start\_\<version\>.bat - launcher shortcut(s)
